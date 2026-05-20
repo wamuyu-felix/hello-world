@@ -1,0 +1,17 @@
+*{
+    margin: 0rem;
+    padding: 0rem;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: antiquewhite;
+    padding: 2rem;
+}
+
+h4 {
+    font-size: 3rem;
+    font-weight: bold;
+    line-height: 1.5;
+    margin-bottom: 1rem;
+}
